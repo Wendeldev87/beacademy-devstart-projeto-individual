@@ -1,5 +1,8 @@
 # beacademy-devstart-projeto-individual
 
+![image](https://user-images.githubusercontent.com/105465397/178973446-3c736df0-f29a-4a88-9267-a00da58b8206.png)
+
+
 About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
